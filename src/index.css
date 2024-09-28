@@ -1,0 +1,29 @@
+.container{
+  position: relative;
+  /* background-color: black; */
+  padding: 22px;
+  border-radius: 11px;
+  width: 300px;
+  margin: auto;
+  margin-top: 74px;
+  text-align: center;
+  color: red;
+}
+/* .container .btn{
+  display: flex;
+  justify-content: center;
+  gap: 22px;
+}
+.container h1{
+  font-size: 43px;
+}
+.container button{
+  width: 120px;
+  height: 40px;
+  border: none;
+  font-size: 18px;
+  background-color: rgb(255, 106, 131);
+  cursor: pointer;
+  color: green;
+  border-radius: 2px;
+} */
